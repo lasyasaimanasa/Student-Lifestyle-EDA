@@ -178,3 +178,20 @@ Student-Lifestyle-EDA/
 ├── student_lifestyle_dataset.csv
 ├── README.md
 └── .gitignore
+---
+
+## Conclusion
+
+The exploratory data analysis provided an overview of the relationship between student lifestyle factors and academic performance.
+
+Among the variables examined, Study Hours Per Day showed the most noticeable positive association with GPA. Physical Activity Hours Per Day showed a moderate negative association, while Sleep Hours, Social Hours, and Extracurricular Hours showed weak or very small linear relationships with GPA.
+
+The analysis also showed differences in GPA across stress-level groups. However, these findings represent associations observed in the dataset and should not be interpreted as causal relationships.
+
+Overall, the project demonstrates how Exploratory Data Analysis can be used to understand patterns and relationships within student lifestyle and academic performance data.
+
+---
+
+## Note
+
+This project is intended for educational and exploratory purposes. The findings describe patterns observed in the dataset and should not be interpreted as causal or predictive conclusions.
