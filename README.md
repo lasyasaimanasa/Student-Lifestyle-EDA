@@ -36,9 +36,9 @@ The dataset used in this project is the **Student Lifestyle Dataset** obtained f
 
 According to the Kaggle dataset description, the dataset contains 2,000 student records and information related to study, extracurricular activities, sleep, social activities, physical activity, GPA, and stress level.
 
-Dataset source:
+### Dataset Source
 
-https://www.kaggle.com/dsv/9876359
+[Student Lifestyle Dataset - Kaggle](https://www.kaggle.com/dsv/9876359)
 
 ### Dataset Variables
 
@@ -144,7 +144,9 @@ Sleep Hours Per Day showed very little linear relationship with GPA.
 
 ### 4. Stress Level and GPA
 
-GPA distributions differed across the stress-level groups. In this dataset, the High stress group had a higher average GPA than the Moderate and Low stress groups.
+GPA distributions differed across the stress-level groups.
+
+In this dataset, the High stress group had a higher average GPA than the Moderate and Low stress groups.
 
 This represents an observed association and does not establish that stress causes changes in GPA.
 
@@ -178,6 +180,8 @@ Student-Lifestyle-EDA/
 ├── student_lifestyle_dataset.csv
 ├── README.md
 └── .gitignore
+```
+
 ---
 
 ## Conclusion
